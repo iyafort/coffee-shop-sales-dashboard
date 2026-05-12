@@ -24,9 +24,9 @@ This project analyzes coffee shop sales data and presents key metrics in an inte
 - Tuesday had the highest transaction count.
 
 ## Files Included
-- `Coffee_Shop_Sales_Dashboard.xlsx`
-- `dashboard-screenshot.png`
-- `dataset.csv`
+- `Coffee%20Shop%20Dashboard%20Project.xlsm`
+- `Coffee%20Shop%20dashboard.jpg`
+- `Coffe_sales.csv`
 
 ## Skills Demonstrated
 - Data Cleaning
