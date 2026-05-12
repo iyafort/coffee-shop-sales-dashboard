@@ -11,7 +11,7 @@ This project analyzes coffee shop sales data and presents key metrics in an inte
 - Slicers
 
 ## Dashboard Preview
-![Image](coffee-shop-sales-dashboard/Coffee Shop dashboard.jpg)
+![Image](coffee-shop-sales-dashboard/Coffee%20Shop%20dashboard.jpg)
 
 ## Key Metrics
 - Total Revenue: $112,245.58
